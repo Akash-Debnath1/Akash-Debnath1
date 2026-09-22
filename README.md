@@ -1,75 +1,115 @@
-<br clear="both">
-
 <div align="center">
-  <img height="360" src="https://private-user-images.githubusercontent.com/83909388/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMxMjQzNTYsIm5iZiI6MTcxMzEyNDA1NiwicGF0aCI6Ii84MzkwOTM4OC8zMTgzMDE4ODQtY2ZjOGU2Y2UtZGYzOS00OWI0LThjZTctNmY1NDBiOWJmMzRmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE0VDE5NDczNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkMzUwOWZkNTUxYTEwZDAzMTVjM2ZjYjYzOGI5NjgwMGNjZjUzZTQ1N2FlM2EwZDBlM2Q5MmYwMjg1YThjMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._MPSWNWx3l0DrBLQtRDpPVN97Csr4rfqetVvDiWl8hM"  />
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · akash-debnath1</sub></p>
+<h1>Akash Debnath</h1>
+<h2>Product-minded developer</h2>
+<p>𝐈𝐟 𝐲𝐨𝐮 𝐝𝐨𝐧'𝐭 𝐥𝐞𝐭 𝐦𝐞 𝐝𝐫𝐞𝐚𝐦, 𝐈 𝐰𝐨𝐧'𝐭 𝐥𝐞𝐭 𝐲𝐨𝐮 𝐬𝐥𝐞𝐞𝐩.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Interweb</sub></p>
+<p><a href="https://github.com/akash-debnath1">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Akash Debnath animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
 </div>
 
-###
+<h2>What teams can evaluate quickly</h2>
 
-<br clear="both">
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer · C · Batchfile</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>4 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>0 contributions · 0 active days</p></td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Akash-Debnath1/count.svg?"  />
-</div>
+<p><sub>𝐈𝐟 𝐲𝐨𝐮 𝐝𝐨𝐧'𝐭 𝐥𝐞𝐭 𝐦𝐞 𝐝𝐫𝐞𝐚𝐦, 𝐈 𝐰𝐨𝐧'𝐭 𝐥𝐞𝐭 𝐲𝐨𝐮 𝐬𝐥𝐞𝐞𝐩.</sub></p>
 
-###
+<h2>Proof at a glance</h2>
 
-<h2 align="left">About</h2>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-###
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Akash Debnath GitHub proof metrics" />
+</picture>
+</p>
 
-<p align="left">-🔭 Currently, I am working on improving my Coding skills.<br>- 🌱 I am currently learning Blockchain Technology.<br>- 👯 I am interested in collaborating on open-source projects.<br>- 💬 Feel free to ask me about anything. I am always happy to learn more.<br>- 📫 You can reach me at engr.akashdebnath@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun Fact: I love playing video games.</p>
+<h2>Selected work</h2>
 
-###
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&repos=akash-debnath1%2FC-programming%2Cakash-debnath1%2FSLG%2Cakash-debnath1%2FScript-Application-on-Windows%2Cakash-debnath1%2FAkash-Debnath1&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&repos=akash-debnath1%2FC-programming%2Cakash-debnath1%2FSLG%2Cakash-debnath1%2FScript-Application-on-Windows%2Cakash-debnath1%2FAkash-Debnath1&v=recruiter-projects-1&mode=dark" width="100%" alt="Akash Debnath selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Akash-Debnath1/C-programming">C-programming</a></h3>
+<p>C programming testing &amp; new Project</p>
+<p><sub>C · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/Akash-Debnath1/C-programming">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<h3 align="left">⚙Tech Stack :</h3>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Akash-Debnath1/SLG">SLG</a></h3><p>Data</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Akash-Debnath1/Script-Application-on-Windows">Script-Application-on-Windows</a></h3><p>❝𝐉𝐮𝐬𝐭 𝐓𝐞𝐬𝐭𝐢𝐧𝐠❞</p><p><sub>Batchfile · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Akash-Debnath1/Akash-Debnath1">Akash-Debnath1</a></h3><p>Config files for my GitHub profile.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-###
+<h2>Technical toolkit</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Akash Debnath technology stack" />
+</picture>
+</p>
 
-###
+<table width="100%">
+<tr>
+<td width="50%" align="center"><strong>C</strong><br /><sub>98% of public code</sub></td>
+<td width="50%" align="center"><strong>Batchfile</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
 
-<h3 align="left">⚙Develop Tools</h3>
+<h2>Consistency signal</h2>
 
-###
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=akash-debnath1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113981059%3Fu%3D25f696f8ce87056a8a35708ebf92b09ad65a3868%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Akash Debnath contribution activity" />
+</picture>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
+<hr />
 
-###
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/akash-debnath1">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Akash Debnath · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
